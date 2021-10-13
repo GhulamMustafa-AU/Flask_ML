@@ -1,0 +1,1 @@
+FEATURES = ['INDUS', 'RM', 'AGE', 'DIS', 'NOX', 'PTRATIO']
